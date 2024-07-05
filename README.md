@@ -18,7 +18,7 @@ https://github.com/Hanamantm/gitdemo/edit/main/README.md
 
 This is a <sub> subcript </sub> Text
 
-! [image] ![pd](https://github.com/Hanamantm/gitdemo/assets/10497993/966bced3-6877-4d09-ad45-f9ea8a645d72)
+![pd](https://github.com/Hanamantm/gitdemo/assets/10497993/966bced3-6877-4d09-ad45-f9ea8a645d72)
 
 
 

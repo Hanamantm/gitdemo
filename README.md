@@ -58,12 +58,8 @@ A footnote can also have multiple lines[^2].
 [^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
   This is a second line.
 
-  This is a regular paragraph.
-
-<table>
-    <tr>
-        <td>Foo</td>
-    </tr>
-</table>
-
-This is another regular paragraph.
+ > This is the first level of quoting.
+>
+> > This is nested blockquote.
+>
+> Back to the first level.

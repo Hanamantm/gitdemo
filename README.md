@@ -24,5 +24,5 @@ This is a <sub> subcript </sub> Text
 * Swati
 + Aradhya
   
-:smile:,
+:👍:,
 

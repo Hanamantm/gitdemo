@@ -26,4 +26,4 @@ This is a <sub> subcript </sub> Text
 👍
 
 [^1]: nice to see you man
-[^2]: welcome to our india
+[^2]: welcome to our india!

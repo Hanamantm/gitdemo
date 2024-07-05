@@ -51,8 +51,10 @@ graph TD
 <p>#5 Paragarph</p>
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="![pexels-pixabay-301599](https://github.com/Hanamantm/gitdemo/assets/10497993/5563aea0-a43d-4e8d-b84a-458b66d6cf34)
+">
+ <source media="(prefers-color-scheme: light)" srcset="![pexels-pixabay-301599](https://github.com/Hanamantm/gitdemo/assets/10497993/4711ada2-79ca-4d4c-8181-816d073191e4)
+">
  <img alt="YOUR-ALT-TEXT" src="![pexels-pixabay-301599](https://github.com/Hanamantm/gitdemo/assets/10497993/697368ee-e0c7-4d76-99d9-09fc5c2acefb)">
 </picture>
 

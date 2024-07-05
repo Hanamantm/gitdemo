@@ -25,3 +25,5 @@ This is a <sub> subcript </sub> Text
 + Aradhya
 👍
 
+[^1] nice to see you man
+[^2] welcome to our india

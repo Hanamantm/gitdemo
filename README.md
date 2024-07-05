@@ -39,3 +39,10 @@ This is a <sub> subcript </sub> Text
 > Advises about risks or negative outcomes of certain actions.
 
 
+```mermaid
+graph TD
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
